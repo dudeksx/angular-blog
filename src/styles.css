@@ -3,4 +3,10 @@
   padding: 0;
   box-sizing: border-box;
   background-color: #ede4d8;
+  color: #75ad86;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a {
+  text-decoration: none;
 }
